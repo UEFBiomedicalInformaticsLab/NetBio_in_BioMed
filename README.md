@@ -1,13 +1,12 @@
-<!--- NetBio_Summer_2023 --->
+<!--- NetBio_in_BioMed --->
 
-# Quantitative Biomedicine Summer School
-## Network-based approaches in biomedicine 
+# Network-based approaches in biomedicine 
 
 The tutorial runs on Jupyter notebook.
 
 <b>Downloading the tutorial materials</b>
     
-    git clone https://github.com/UEFBiomedicalInformaticsLab/NetBio_Summer_2023.git
+    git clone https://github.com/UEFBiomedicalInformaticsLab/NetBio_in_BioMed.git
 
 <b>Intalling jupyter notebook with pip</b>
     
@@ -28,4 +27,4 @@ The tutorial runs on Jupyter notebook.
     
     
     
-Launch using Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UEFBiomedicalInformaticsLab/NetBio_Summer_2023.git/HEAD) 
+Launch using Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UEFBiomedicalInformaticsLab/NetBio_in_BioMed.git/HEAD) 
