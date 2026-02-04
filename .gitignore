@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
 __pycache__/
 part2_graded_ex.ipynb
+Exclude/*
+Archive/*
 
